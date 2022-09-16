@@ -52,7 +52,11 @@
   padding: 12px;
 
   /* Phase 3 */
-
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-end;
   /* Your code here */
 }
 
