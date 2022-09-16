@@ -6,6 +6,9 @@
   font-size: 42pt;
 
   /* Phase 1 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
   /* Your code here */
 }
